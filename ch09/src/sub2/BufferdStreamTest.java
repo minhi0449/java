@@ -10,28 +10,29 @@ import java.io.IOException;
 /*
  * 날짜 : 2024/07/18
  * 이름 : 김민희
- * 내용 : 바이트 배열을 이용한 버퍼 실습하기
+ * 내용 : 버퍼 보조 스트림 실습하기
  */
-public class ByteArrayBufferTest {
+public class BufferdStreamTest {
 	
 	public static void main(String[] args) {
 		
 		String source = "C:\\Users\\lotte4\\Desktop\\workspace.zip";
-		String target = "C:\\Users\\lotte4\\Desktop\\workspace3.zip";
+		String target = "C:\\Users\\lotte4\\Desktop\\workspace2.zip";
 		
 		
-		// 버퍼로 이용한 byte 배열
-		byte[] buffer = new byte[1024]; // 1KB
-				
 		try {
 			// 입력스트림 생성 및 파일 연결
 			FileInputStream fis = new FileInputStream(source);
 			FileOutputStream fos = new FileOutputStream(target);
 			
+			// 보조스트림
+			BufferedInputStream bis = new BufferedInputStream(fis);
+			BufferedOutputStream bos = new BufferedOutputStream(fos);
+			
 			while(true) {
 				
 				// 파일 읽기
-				int data = fis.read(buffer); // 한번에 1KB 단위로 읽기
+				int data = bis.read();
 				
 				if(data == -1) {
 					// 더 이상 읽을 파일 내용이 없을 경우
@@ -39,10 +40,16 @@ public class ByteArrayBufferTest {
 				}
 				
 				// 파일 쓰기
-				fos.write(buffer, 0, data);				
+				bos.write(data);				
 			}
 			
-			// 스트림 해제			
+			// 버퍼 비우기
+			bos.flush();
+						
+			// 스트림 해제
+			bis.close();
+			bos.close();
+			
 			fis.close();
 			fos.close();
 			
