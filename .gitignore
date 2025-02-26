@@ -2,3 +2,4 @@ sample.txt
 temp/
 *.log
 .metadata/
+.DS_Store
