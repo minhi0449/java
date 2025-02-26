@@ -3,3 +3,4 @@ temp/
 *.log
 .metadata/
 .DS_Store
+.idea
