@@ -9,7 +9,7 @@ package test;
 
  */
 
-public class test_01 {
+public class Test01 {
     public static void main(String[] args) {
         // 1. 데이터 10, 100, 100 을 변수 선언과 동시에 초기화
         int data1 = 10;
