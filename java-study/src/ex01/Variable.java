@@ -1,4 +1,4 @@
-package ex_01;
+package ex01;
 
 /*
     변수란? (Variable)

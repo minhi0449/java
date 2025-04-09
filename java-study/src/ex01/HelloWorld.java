@@ -1,4 +1,4 @@
-package ex_01;
+package ex01;
 
 /*
     프로그래밍 세상과의 첫 인사
