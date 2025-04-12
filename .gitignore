@@ -24,7 +24,7 @@
 *.tar.gz
 *.rar
 
-# 로그 파일 (이미 *.log로 설정되어 있음)
+# 로그 파일
 # *.log
 
 # BlueJ 파일
@@ -42,7 +42,7 @@ replay_pid*
 .project
 .settings/
 
-# Mac OS 관련 파일 (이미 .DS_Store로 설정되어 있음)
+# Mac OS 관련 파일
 # .DS_Store
 
 # Maven 관련 파일
