@@ -1,6 +1,64 @@
-sample.txt
-temp/
-*.log
-.metadata/
-.DS_Store
-.idea
+# 컴파일된 클래스 파일
+*.class
+
+# 빌드 결과물
+/out/
+/build/
+/bin/
+/target/
+
+# IntelliJ IDEA 관련 파일
+*.iml
+*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+
+# 패키지 파일
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# 로그 파일 (이미 *.log로 설정되어 있음)
+# *.log
+
+# BlueJ 파일
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# 가상 머신 충돌 로그
+hs_err_pid*
+replay_pid*
+
+# Eclipse 관련 파일
+.classpath
+.project
+.settings/
+
+# Mac OS 관련 파일 (이미 .DS_Store로 설정되어 있음)
+# .DS_Store
+
+# Maven 관련 파일
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle 관련 파일
+.gradle
+**/build/
+!src/**/build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
