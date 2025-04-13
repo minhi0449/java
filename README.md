@@ -19,4 +19,4 @@
 | **java-exam** | Java 실습 연습문제 |
 | **java-final-exam** | Java 실습 최종 연습문제 |
 
-## java-study
+## ✓ java-study
