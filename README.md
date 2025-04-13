@@ -14,7 +14,7 @@
 ## 기타 자료  
 | 파일명 | 설명 |
 |--------|--------------------------|
-| **java_study_pdf** | Java 공부 PDF 자료 |
+| **java-study-pdf** | Java 공부 PDF 자료 |
 | **java-study** | Java 기본 문법 및 개념 학습 코드 |
 | **java-exam** | Java 실습 연습문제 |
 | **java-final-exam** | Java 실습 최종 연습문제 |
