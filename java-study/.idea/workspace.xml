@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcbffe60-f74e-48e7-81a6-ca041de455b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch03/Operation8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/Operation10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +46,7 @@
     "Application.HelloWorld.executor": "Run",
     "Application.MainTest1.executor": "Run",
     "Application.MainTest2.executor": "Run",
+    "Application.Operation10.executor": "Run",
     "Application.Operation3.executor": "Run",
     "Application.Operation4.executor": "Run",
     "Application.Operation4_1.executor": "Run",
@@ -66,9 +67,9 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Operation8">
-    <configuration name="Operation4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.Operation4" />
+  <component name="RunManager" selected="Application.Operation10">
+    <configuration name="Operation10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.Operation10" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Operation10" />
         <item itemvalue="Application.Operation8" />
         <item itemvalue="Application.Operation6" />
         <item itemvalue="Application.Operation5" />
         <item itemvalue="Application.Operation4_1" />
-        <item itemvalue="Application.Operation4" />
       </list>
     </recent_temporary>
   </component>
