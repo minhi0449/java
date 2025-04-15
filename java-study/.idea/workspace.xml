@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcbffe60-f74e-48e7-81a6-ca041de455b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch03/IfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/ForMainTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,9 @@
     "Application.Datatype2.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.IfTest.executor": "Run",
+    "Application.IfTest03.executor": "Run",
+    "Application.IfTest04.executor": "Run",
+    "Application.IfTest05.executor": "Run",
     "Application.MainTest1.executor": "Run",
     "Application.MainTest2.executor": "Run",
     "Application.Operation10.executor": "Run",
@@ -68,7 +72,20 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IfTest">
+  <component name="RunManager" selected="Application.ForMainTest01">
+    <configuration name="ForMainTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.ForMainTest01" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch03.IfTest" />
       <module name="java-study" />
@@ -82,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operation10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.Operation10" />
+    <configuration name="IfTest03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.IfTest03" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operation6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.Operation6" />
+    <configuration name="IfTest04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.IfTest04" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
@@ -108,25 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operation8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.Operation8" />
+    <configuration name="IfTest05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.IfTest05" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test05" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForMainTest01" />
+        <item itemvalue="Application.IfTest05" />
+        <item itemvalue="Application.IfTest04" />
+        <item itemvalue="Application.IfTest03" />
         <item itemvalue="Application.IfTest" />
-        <item itemvalue="Application.Test05" />
-        <item itemvalue="Application.Operation10" />
-        <item itemvalue="Application.Operation8" />
-        <item itemvalue="Application.Operation6" />
       </list>
     </recent_temporary>
   </component>
