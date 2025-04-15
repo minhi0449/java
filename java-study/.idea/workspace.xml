@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcbffe60-f74e-48e7-81a6-ca041de455b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch04/ForMainTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/ForMainTest02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,8 @@
     "Application.DataType3.executor": "Run",
     "Application.DataType4.executor": "Run",
     "Application.Datatype2.executor": "Run",
+    "Application.ForMainTest01.executor": "Run",
+    "Application.ForMainTest02.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.IfTest.executor": "Run",
     "Application.IfTest03.executor": "Run",
@@ -72,7 +74,7 @@
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ForMainTest01">
+  <component name="RunManager" selected="Application.ForMainTest02">
     <configuration name="ForMainTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch04.ForMainTest01" />
       <module name="java-study" />
@@ -86,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.IfTest" />
+    <configuration name="ForMainTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch04.ForMainTest02" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch03.*" />
+          <option name="PATTERN" value="ch04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForMainTest02" />
         <item itemvalue="Application.ForMainTest01" />
         <item itemvalue="Application.IfTest05" />
         <item itemvalue="Application.IfTest04" />
         <item itemvalue="Application.IfTest03" />
-        <item itemvalue="Application.IfTest" />
       </list>
     </recent_temporary>
   </component>
