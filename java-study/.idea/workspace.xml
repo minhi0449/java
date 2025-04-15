@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dcbffe60-f74e-48e7-81a6-ca041de455b6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/java-study.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/Operation5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-study/ch02/Constant.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-study/ch02/Constant.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,47 +32,40 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Constant.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataType3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DataType4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Datatype2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainTest1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainTest2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Operation3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeConversion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TypeConversion2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test_01.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Constant.executor": "Run",
+    "Application.DataType3.executor": "Run",
+    "Application.DataType4.executor": "Run",
+    "Application.Datatype2.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.MainTest1.executor": "Run",
+    "Application.MainTest2.executor": "Run",
+    "Application.Operation3.executor": "Run",
+    "Application.Operation4.executor": "Run",
+    "Application.Operation4_1.executor": "Run",
+    "Application.Operation5.executor": "Run",
+    "Application.Test03.executor": "Run",
+    "Application.TypeConversion.executor": "Run",
+    "Application.TypeConversion2.executor": "Run",
+    "Application.test_01.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager" selected="Application.Operation3">
-    <configuration name="MainTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch03.MainTest1" />
-      <module name="java-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.Operation5">
     <configuration name="MainTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch03.MainTest2" />
       <module name="java-study" />
@@ -97,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch02.TypeConversion" />
+    <configuration name="Operation4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.Operation4" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch02.*" />
+          <option name="PATTERN" value="ch03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +105,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeConversion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch02.TypeConversion2" />
+    <configuration name="Operation4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.Operation4_1" />
       <module name="java-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch02.*" />
+          <option name="PATTERN" value="ch03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Operation5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch03.Operation5" />
+      <module name="java-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Operation5" />
+        <item itemvalue="Application.Operation4_1" />
+        <item itemvalue="Application.Operation4" />
         <item itemvalue="Application.Operation3" />
         <item itemvalue="Application.MainTest2" />
-        <item itemvalue="Application.MainTest1" />
-        <item itemvalue="Application.TypeConversion2" />
-        <item itemvalue="Application.TypeConversion" />
       </list>
     </recent_temporary>
   </component>
