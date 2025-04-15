@@ -45,5 +45,11 @@ public class IfTest05 {
             System.out.println("당신의 학점은 : " + grade + " 입니다.");
 
         }
-    }
-}
+
+        // 점수가 0 ~ 100 인지 판별
+        // 참이면 학점 출력 (당신의 학점은 A 입니다.)
+        // 거짓이면 오류 출력 (잘못된 입력값 입니다.)
+        System.out.println(((score <= 100) && (score >= 0)) ? "당신의 학점은 : " + grade + " 입니다." : "! - 잘못된 입력값 입니다.");
+
+    } // end of main
+} // end of class
