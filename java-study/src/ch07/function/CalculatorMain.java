@@ -1,7 +1,7 @@
 package ch07.function;
 
 /*
-    함수란 ? 데이터를 받아서 처리하고 결과를 돌려주는 코드 블록이야
+    함수란? 데이터를 받아서 처리하고 결과를 돌려주는 코드 블록이야
     static 을 사용하면 객체 없이 바로 호출 가능 해 !
  */
 public class CalculatorMain { // 함수 복습
