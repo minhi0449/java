@@ -16,7 +16,20 @@ public class NumberPrinter {
 
     private int id;
     // 멤버 변수 (NumberPrinter 소속된 변수)
-    // public int wait
+    // public int waitNumber;
 
+    // waitNumber <-- 멤버 변수가 아니라 class area 영역에 포함된다.
+    public static int waitNumber; // static 변수 선언(클래스 변수)
+
+    public NumberPrinter(int id) {
+        this.id = id;
+        this.waitNumber = 1;
+    }
+
+    // 번호표를 출력합니다.
+    public void printWaitNumber(){
+        System.out.println(id + "기기에 대기 순번은 : " + waitNumber);
+        waitNumber++;
+    }
 
 }
