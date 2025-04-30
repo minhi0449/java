@@ -1,0 +1,26 @@
+# Eclipse Workspace 정보
+/.metadata/
+
+# MacOS
+.DS_Store
+
+# Eclipse IDE
+*.class         # 컴파일된 바이트코드
+bin/            # 클래스 파일 저장 폴더
+.settings/      # 프로젝트별 설정 정보
+.project        # 이클립스 프로젝트 정의 파일
+.classpath      # 이클립스 클래스 경로 설정 파일
+
+# IntelliJ IDEA
+.idea/          # 프로젝트 설정 폴더
+*.iml           # 모듈 설정 파일
+
+# VSCode
+.vscode/
+
+# 로그 파일
+*.log
+
+# 기타
+*.war
+*.jar
