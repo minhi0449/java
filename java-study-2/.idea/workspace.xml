@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dcbffe60-f74e-48e7-81a6-ca041de455b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02/bin/ch02/sec01/VariableInitializationExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02/bin/ch02/sec01/VariableInitializationExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02/bin/ch02/sec02/ByteExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02/bin/ch02/sec02/ByteExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02/bin/ch02/sec02/LongExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02/bin/ch02/sec02/LongExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02/src/ch02/sec01/VariableInitializationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02/src/ch02/sec01/VariableInitializationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02/src/ch02/sec02/ByteExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02/src/ch02/sec02/ByteExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02/src/ch02/sec02/LongExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02/src/ch02/sec02/LongExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch04/bin/ch04/sec03/SwitchExpressionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ch04/bin/ch04/sec03/SwitchExpressionExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../this-java/bin/ch01/sec11/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../this-java/bin/ch01/sec11/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../this-java/bin/ch01/sec11/package-info.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2vDutQ6Xx4bymLkevUOSjNKZy0x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.AccessTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayBasics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BookProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BusMainTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculatorMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Card02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CoffeeMachineMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constant.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataType3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataType4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Datatype2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForMainTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ForMainTest02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FunctionMainTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetTenTotal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GoToSchool.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfTest03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfTest04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfTest05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operation10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operation3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operation4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operation4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operation5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operation6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operation8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PersonMainTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentMainTest01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test09.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeConversion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TypeConversion2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.User.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WarriorMainTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.oop1.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test_01.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ArrayBasics">
+    <configuration name="ArrayBasics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayBasics" />
+      <module name="java-study-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayTest01" />
+      <module name="java-study-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayTest02" />
+      <module name="java-study-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Card02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_static.Card02" />
+      <module name="java-study-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_static.Main_01" />
+      <module name="java-study-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrayBasics" />
+        <item itemvalue="Application.ArrayTest02" />
+        <item itemvalue="Application.ArrayTest01" />
+        <item itemvalue="Application.Main_01" />
+        <item itemvalue="Application.Card02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcbffe60-f74e-48e7-81a6-ca041de455b6" name="Changes" comment="" />
+      <created>1743692179482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743692179482</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
