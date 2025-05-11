@@ -19,9 +19,17 @@ public class Book {
     }
 
     // showInfo();
+    @Override
     public String toString() {
-        return "title : " + title + " , " + "author : " + author;
+        return "Book{" +
+                "title='" + title + '\'' +
+                ", author='" + author + '\'' +
+                '}';
     }
+
+//    public String toString() {
+//        return "title : " + title + " , " + "author : " + author;
+//    }
 
     // 테스트 코드
     public static void main(String[] args) {
