@@ -1,7 +1,7 @@
 # Eclipse Workspace 정보
 /.metadata/
 
-# MacOS
+# MacOS 시스템 파일
 .DS_Store
 
 # Eclipse IDE
@@ -12,7 +12,7 @@ bin/            # 클래스 파일 저장 폴더
 .classpath      # 이클립스 클래스 경로 설정 파일
 
 # IntelliJ IDEA
-.idea/          # 프로젝트 설정 폴더
+.idea/*         # 프로젝트 설정 폴더
 *.iml           # 모듈 설정 파일
 
 # VSCode
@@ -21,6 +21,9 @@ bin/            # 클래스 파일 저장 폴더
 # 로그 파일
 *.log
 
-# 기타
+# 기타 컴파일/배포 파일
 *.war
 *.jar
+
+# 외부 경로까지 추적되는 문제 방지 (루트 기준으로 안전하게!)
+/this-java/
