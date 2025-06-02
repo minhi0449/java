@@ -14,5 +14,4 @@ public class FunctionTest {
         int result = n1 + n2;
         return result; // 결과 값 반환
     }
-
 }
