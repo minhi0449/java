@@ -14,16 +14,21 @@ public class Student {
 
 
     public void takeBus(Bus bus){
-        bus.take(1000);
-        this.money -= 1000;
+        bus.take(1000); // 버스에 1000원 요금 전달
+        this.money -= 1000;    // 학생 돈에서 1000원 차감
     }
 
     public void takeSubway(Subway subway){
-        subway.take();
-        this.money -= 1500;
+        subway.take(1500);   // 지하철에 1500원 요금 전달하도록 매개변수 추가
+        this.money -= 1500;         // 학생 돈에서 1500원 차감
+    }
+
+    public void takeTaxi(Taxi taxi){
+        taxi.take(10000);
+        this.money -= 10000;
     }
 
     public void showInfo(){
-        System.out.println(studentName + "님의 남은  돈은 " + money + "입니다.");
+        System.out.println("\n'"+ studentName + "' 님의 남은 돈은 '" + money + "' 입니다.");
     }
 }
