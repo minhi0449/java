@@ -1,7 +1,7 @@
 package classpart;
 
 // 인스턴스 여러 개 생성하기
-public class StudentTest {
+public class StudentTest1 {
     public static void main(String[] args) {
         Student student1 = new Student(); // 첫 번째 학생 생성
         student1.studentName = "안연수";

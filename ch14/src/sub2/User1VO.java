@@ -13,18 +13,6 @@ public class User1VO {
 	private String hp;
 	private int age;
 	
-	/*
-	 * 사용자 정의 생성자
-	public User1VO(String uid, String name, String birth, String hp, int age) {
-		super();
-		this.uid = uid;
-		this.name = name;
-		this.birth = birth;
-		this.hp = hp;
-		this.age = age;
-	}
-	*/
-	
 	public String getUid() {
 		return uid;
 	}
