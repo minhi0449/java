@@ -13,7 +13,6 @@ public class User1VO {
 	private String hp;
 	private int age;
 	
-	
 	public String getUid() {
 		return uid;
 	}
