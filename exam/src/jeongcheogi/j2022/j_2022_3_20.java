@@ -1,6 +1,6 @@
 package jeongcheogi.j2022;
 
-// 2023년 3회 기출문제 20번
+// 2022년 3회 기출문제 20번
 // 1부터 998까지 숫자 중에서 3의 배수이면서 홀수인 가장 큰 숫자를 찾는 문제
 public class j_2022_3_20 {
 	public static void main(String[] args) {
