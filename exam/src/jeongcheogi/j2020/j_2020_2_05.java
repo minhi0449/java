@@ -18,3 +18,5 @@ public class j_2020_2_05 {
 		pa.show();
 	}
 }
+
+// 출력 결과 : Child
